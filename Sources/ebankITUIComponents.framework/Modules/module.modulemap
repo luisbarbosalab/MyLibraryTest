@@ -1,0 +1,6 @@
+framework module ebankITUIComponents {
+  umbrella header "ebankITUIComponents.h"
+
+  export *
+  module * { export * }
+}
